@@ -13,3 +13,5 @@ Using Test Explorer, all tests can be run by selecting the namespace HackathonCr
 
 Test reports for traditional approach for V1 and V2 version will be placed in the project folder. 
 
+Sample test reports is present in this repository. 
+
