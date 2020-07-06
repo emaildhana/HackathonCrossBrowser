@@ -3,19 +3,13 @@ Applitools Cross Browser Hackathon 2020
 
 This GitHub repository contains the source code for the Applitools Cross Browser Hackathon 2020 
 
-Please download this repository and open it using visual studio professional.
+Please download this repository and open it using visual studio professional. Build the solution. 
 
-## NuGet Packages to be installed
+## How to run the test
 
-•	Selenium Webdriver
+Using Test Explorer, all tests can be run by selecting the namespace HackathonCrossBrowser and click on Run 
 
-•	Selenium Support
+## Test reports
 
-•	MS Test Framework
-
-•	MS Test Adapter
-
-•	Selenium.Webdriver.Chromedriver - Chrome
-
-•	Selenium.Firefox.Webdriver - Firefox
+Test reports for traditional approach for V1 and V2 version will be placed in the project folder. 
 
