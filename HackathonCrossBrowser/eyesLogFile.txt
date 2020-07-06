@@ -1,0 +1,743 @@
+2020-07-06 08:09:24.168 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:24.170 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:24.170 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:24.170 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:24.170 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:24.170 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:24.170 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:24.373 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:24.373 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:24.373 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:24.373 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:24.373 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:24.374 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:24.375 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:24.375 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:24.375 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:24.375 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:24.375 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:24.375 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:24.375 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:24.375 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:24.375 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:24.472 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:24.472 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:24.472 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:24.472 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:24.472 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:24.472 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:24.472 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:24.772 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:24.772 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:24.772 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:24.772 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:24.772 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:24.772 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:24.772 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:24.874 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:24.874 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:24.874 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:24.874 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:24.874 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:24.875 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:24.875 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:24.875 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:24.875 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:24.875 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:24.876 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:24.876 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:24.876 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:24.876 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:24.876 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:25.072 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:25.072 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:25.072 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:25.072 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:25.072 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:25.072 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:25.072 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:25.374 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:25.374 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:25.374 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:25.374 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:25.374 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:25.374 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:25.374 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:25.374 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:25.374 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:25.374 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:25.375 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:25.375 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:25.376 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:25.376 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:25.376 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:25.376 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:25.377 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:25.377 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:25.378 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:25.378 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:25.378 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:25.378 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:25.674 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:25.674 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:25.674 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:25.674 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:25.674 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:25.674 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:25.674 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:25.875 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:25.875 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:25.875 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:25.875 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:25.875 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:25.878 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:25.878 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:25.878 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:25.878 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:25.878 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:25.878 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:25.878 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:25.878 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:25.879 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:25.879 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:25.975 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:25.975 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:25.975 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:25.975 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:25.975 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:25.975 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:25.975 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:26.276 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:26.276 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:26.276 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:26.276 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:26.276 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:26.276 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:26.276 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:26.376 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:26.376 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:26.376 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:26.376 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:26.376 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:26.379 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:26.379 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:26.379 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:26.379 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:26.379 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:26.380 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:26.380 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:26.380 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:26.380 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:26.380 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:26.576 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:26.576 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:26.576 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:26.576 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:26.576 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:26.576 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:26.576 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:26.877 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:26.877 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:26.877 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:26.877 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:26.877 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:26.877 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:26.877 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:26.877 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:26.877 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:26.877 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:26.877 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:26.877 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:26.880 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:26.880 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:26.880 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:26.880 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:26.880 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:26.880 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:26.880 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:26.880 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:26.880 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:26.880 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:27.177 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:27.178 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:27.178 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:27.178 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:27.178 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:27.178 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:27.178 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:27.377 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:27.377 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:27.377 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:27.377 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:27.377 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:27.380 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:27.380 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:27.380 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:27.380 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:27.380 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:27.380 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:27.380 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:27.380 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:27.380 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:27.381 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:27.478 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:27.478 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:27.478 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:27.478 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:27.478 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:27.478 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:27.478 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:27.741 [LOG    ] [  12] Eyes: VisualGridEyes.Open:  Agent = Eyes.Selenium.VisualGrid.DotNet/2.29
+2020-07-06 08:09:27.742 [VERBOSE] [  12] Eyes: VisualGridEyes.Open:  .NET Framework = 4.0.30319.42000
+2020-07-06 08:09:27.744 [VERBOSE] [  12] Eyes: EyesWebDriver..ctor:  Driver is OpenQA.Selenium.Chrome.ChromeDriver
+2020-07-06 08:09:27.771 [LOG    ] [  12] Eyes: EyesWebDriver.GetUserAgent:  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+2020-07-06 08:09:27.771 [VERBOSE] [  12] Eyes: VisualGridEyes.Open:  User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+2020-07-06 08:09:27.778 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:27.778 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:27.778 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:27.778 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:27.778 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:27.778 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:27.778 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:27.877 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetViewportSize:  SetViewportSize(800x600)
+2020-07-06 08:09:27.878 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:27.878 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:27.878 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:27.878 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:27.878 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:27.881 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:27.881 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:27.881 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:27.881 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:27.881 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:27.882 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:27.882 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:27.882 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:27.882 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:27.882 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:27.886 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.GetViewportSize:  viewport size: {Width=1036, Height=674}
+2020-07-06 08:09:27.886 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetViewportSize:  initial viewport size: {Width=1036, Height=674}
+2020-07-06 08:09:28.079 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:28.079 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:28.079 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:28.079 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:28.079 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:28.079 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:28.079 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:28.379 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:28.379 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:28.379 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:28.379 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:28.379 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:28.379 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:28.379 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:28.379 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:28.379 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:28.379 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:28.379 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:28.379 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:28.382 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:28.382 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:28.382 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:28.382 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:28.382 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:28.383 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:28.383 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:28.383 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:28.383 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:28.383 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:28.679 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:28.679 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:28.679 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:28.679 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:28.679 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:28.679 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:28.680 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:28.879 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:28.879 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:28.879 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:28.879 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:28.879 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:28.882 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:28.882 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:28.882 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:28.882 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:28.882 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:28.884 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:28.884 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:28.884 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:28.884 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:28.884 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:28.981 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:28.981 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:28.981 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:28.981 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:28.981 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:28.981 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:28.981 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:29.281 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:29.281 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:29.281 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:29.281 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:29.281 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:29.281 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:29.281 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:29.380 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:29.380 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:29.380 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:29.380 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:29.380 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:29.383 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:29.383 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:29.383 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:29.383 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:29.383 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:29.385 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:29.385 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:29.385 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:29.385 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:29.385 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:29.582 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:29.582 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:29.582 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:29.582 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:29.582 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:29.582 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:29.582 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:29.881 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:29.881 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:29.881 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:29.881 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:29.881 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:29.883 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:29.883 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:29.883 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:29.883 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:29.883 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:29.883 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:29.883 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:29.884 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:29.884 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:29.884 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:29.884 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:29.884 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:29.886 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:29.886 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:29.886 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:29.886 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:29.886 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:30.019 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSizeByViewportSize:  Current browsers size: {Width=1052, Height=807}
+2020-07-06 08:09:30.019 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Trying to set the browser size to: {Width=816, Height=733}
+2020-07-06 08:09:30.184 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:30.184 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:30.184 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:30.184 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:30.184 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:30.184 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:30.184 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:30.381 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:30.381 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:30.381 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:30.381 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:30.381 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:30.384 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:30.384 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:30.384 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:30.384 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:30.384 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:30.386 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:30.386 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:30.386 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:30.386 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:30.386 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:30.484 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:30.484 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:30.484 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:30.484 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:30.484 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:30.484 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:30.484 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:30.785 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:30.785 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:30.789 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:30.789 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:30.789 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:30.790 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:30.790 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:30.882 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:30.882 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:30.882 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:30.882 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:30.882 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:30.885 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:30.885 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:30.885 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:30.885 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:30.885 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:30.887 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:30.887 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:30.887 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:30.887 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:30.887 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:31.091 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:31.091 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:31.091 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:31.091 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:31.091 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:31.091 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:31.091 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:31.144 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Current browser size: {Width=816, Height=734}
+2020-07-06 08:09:31.144 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Trying to set the browser size to: {Width=816, Height=733}
+2020-07-06 08:09:31.383 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:31.383 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:31.383 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:31.383 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:31.383 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:31.386 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:31.386 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:31.386 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:31.386 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:31.386 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:31.388 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:31.388 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:31.388 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:31.388 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:31.388 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:31.392 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:31.392 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:31.392 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:31.392 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:31.392 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:31.392 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:31.392 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:31.692 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:31.692 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:31.692 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:31.692 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:31.692 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:31.692 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:31.692 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:31.883 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:31.883 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:31.883 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:31.883 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:31.883 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:31.886 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:31.886 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:31.886 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:31.886 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:31.886 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:31.888 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:31.888 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:31.888 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:31.888 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:31.888 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:31.993 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:31.993 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:31.993 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:31.993 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:31.993 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:31.993 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:31.993 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:32.258 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Current browser size: {Width=816, Height=734}
+2020-07-06 08:09:32.259 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Trying to set the browser size to: {Width=816, Height=733}
+2020-07-06 08:09:32.293 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:32.293 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:32.293 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:32.293 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:32.293 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:32.293 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:32.293 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:32.384 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:32.384 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:32.384 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:32.384 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:32.384 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:32.387 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:32.387 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:32.387 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:32.387 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:32.387 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:32.389 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:32.389 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:32.389 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:32.389 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:32.389 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:32.594 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:32.594 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:32.594 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:32.594 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:32.594 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:32.594 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:32.594 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:32.884 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:32.884 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:32.884 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:32.884 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:32.884 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:32.887 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:32.887 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:32.887 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:32.887 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:32.887 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:32.889 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:32.889 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:32.889 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:32.889 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:32.889 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:32.894 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:32.894 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:32.894 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:32.894 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:32.894 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:32.894 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:32.894 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:33.195 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:33.195 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:33.195 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:33.195 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:33.195 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:33.195 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:33.195 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:33.377 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Current browser size: {Width=816, Height=734}
+2020-07-06 08:09:33.385 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:33.385 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:33.385 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:33.385 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:33.385 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:33.388 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:33.388 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:33.388 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:33.388 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:33.388 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:33.390 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:33.390 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:33.390 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:33.390 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:33.390 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:33.390 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.GetViewportSize:  viewport size: {Width=802, Height=603}
+2020-07-06 08:09:33.391 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetViewportSizeAttempt1:  Current viewport size: {Width=802, Height=603}
+2020-07-06 08:09:33.392 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetViewportSizeAttempt2:  Trying workaround for maximization...
+2020-07-06 08:09:33.401 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSizeByViewportSize:  Current browsers size: {Width=816, Height=734}
+2020-07-06 08:09:33.402 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Trying to set the browser size to: {Width=814, Height=731}
+2020-07-06 08:09:33.495 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:33.495 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:33.495 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:33.495 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:33.495 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:33.495 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:33.495 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:33.796 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:33.796 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:33.796 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:33.796 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:33.796 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:33.796 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:33.796 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:33.887 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:33.887 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:33.887 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:33.887 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:33.887 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:33.889 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:33.889 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:33.889 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:33.889 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:33.889 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:33.891 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:33.891 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:33.891 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:33.891 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:33.891 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:34.097 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:34.097 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:34.097 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:34.097 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:34.097 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:34.097 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:34.097 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:34.388 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:34.388 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:34.388 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:34.388 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:34.388 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:34.390 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:34.390 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:34.390 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:34.390 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:34.390 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:34.392 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:34.392 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:34.392 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:34.392 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:34.392 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:34.397 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:34.397 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:34.397 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:34.397 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:34.397 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:34.397 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:34.397 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:34.543 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Current browser size: {Width=815, Height=732}
+2020-07-06 08:09:34.544 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Trying to set the browser size to: {Width=814, Height=731}
+2020-07-06 08:09:34.697 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:34.697 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:34.697 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:34.697 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:34.697 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:34.698 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:34.698 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:34.889 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:34.889 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:34.889 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:34.889 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:34.889 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:34.891 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:34.891 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:34.891 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:34.891 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:34.891 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:34.893 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:34.893 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:34.893 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:34.893 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:34.893 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:34.999 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:34.999 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:34.999 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:34.999 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:34.999 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:34.999 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:34.999 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:35.300 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:35.300 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:35.300 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:35.300 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:35.300 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:35.300 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:35.300 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:35.391 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:35.391 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:35.391 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:35.391 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:35.391 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:35.392 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:35.392 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:35.392 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:35.392 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:35.392 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:35.394 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:35.394 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:35.394 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:35.394 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:35.394 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:35.601 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:35.601 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:35.601 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:35.601 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:35.601 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:35.601 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:35.601 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:35.662 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Current browser size: {Width=815, Height=732}
+2020-07-06 08:09:35.663 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Trying to set the browser size to: {Width=814, Height=731}
+2020-07-06 08:09:35.892 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:35.892 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:35.892 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:35.892 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:35.892 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:35.893 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:35.893 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:35.894 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:35.894 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:35.894 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:35.895 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:35.895 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:35.895 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:35.895 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:35.895 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:35.901 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:35.902 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:35.902 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:35.902 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:35.902 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:35.902 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:35.902 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:36.203 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:36.203 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:36.203 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:36.203 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:36.203 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:36.203 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:36.203 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:36.392 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:36.392 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:36.392 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:36.392 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:36.392 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:36.394 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:36.394 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:36.394 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:36.394 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:36.394 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:36.395 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:36.395 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:36.395 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:36.395 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:36.395 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:36.503 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:36.503 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:36.503 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:36.503 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:36.503 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:36.503 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:36.503 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:36.783 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetBrowserSize_:  Current browser size: {Width=815, Height=732}
+2020-07-06 08:09:36.792 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.GetViewportSize:  viewport size: {Width=800, Height=600}
+2020-07-06 08:09:36.792 [VERBOSE] [  12] Eyes: EyesSeleniumUtils.SetViewportSizeAttempt2:  Current viewport size: {Width=800, Height=600}
+2020-07-06 08:09:36.793 [VERBOSE] [  12] Eyes: VisualGridEyes.Open:  getting all browsers info...
+2020-07-06 08:09:36.794 [VERBOSE] [  12] Eyes: VisualGridEyes.Open:  creating test descriptors for each browser info...
+2020-07-06 08:09:36.794 [VERBOSE] [  12] Eyes: VisualGridEyes.Open:  creating test descriptor
+2020-07-06 08:09:36.795 [VERBOSE] [  12] Eyes: VisualGridEyes.CreateEyesConnector_:  creating eyes server connector
+2020-07-06 08:09:36.803 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:36.803 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:36.803 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:36.803 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:36.803 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:36.803 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:36.803 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:36.863 [VERBOSE] [  12] Eyes: VisualGridEyes.CreateEyesConnector_:  initializing rendering info...
+2020-07-06 08:09:36.864 [VERBOSE] [  12] Eyes: EyesConnector.GetRenderingInfo:  aquiring rendering info
+2020-07-06 08:09:36.866 [VERBOSE] [  12] Eyes: ServerConnector.GetRenderingInfo:  enter
+2020-07-06 08:09:36.866 [VERBOSE] [  12] Eyes: ServerConnector.GetRenderingInfo:  trying to get rendering info...
+2020-07-06 08:09:36.893 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:36.893 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:36.893 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:36.893 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:36.893 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:36.895 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:36.895 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:36.895 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:36.895 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:36.895 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
+2020-07-06 08:09:36.896 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:36.896 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:36.896 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  locking allEyes_. Count: 0
+2020-07-06 08:09:36.896 [VERBOSE] [  15] Eyes: VisualGridRunner.GetNextTestToClose_:  releasing allEyes_
+2020-07-06 08:09:36.896 [VERBOSE] [  15] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #42931033
+2020-07-06 08:09:37.103 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:37.103 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:37.103 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  exit
+2020-07-06 08:09:37.103 [VERBOSE] [  16] Eyes: RenderingGridService.RunNextTask_:  enter
+2020-07-06 08:09:37.103 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  enter - renderingTaskList_.Count: 0
+2020-07-06 08:09:37.103 [VERBOSE] [  16] Eyes: VisualGridRunner.GetNextRenderingTask_:  exit
+2020-07-06 08:09:37.103 [VERBOSE] [  16] Eyes: VisualGridRunner.<Init>b__53_4:  nextTestToRender is null. Waiting 300ms on lock object.
+2020-07-06 08:09:37.394 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:37.394 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:37.394 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  looking for best test in a list of 0
+2020-07-06 08:09:37.394 [VERBOSE] [  17] Eyes: VisualGridRunner.GetNextCheckTask_:  no test found.
+2020-07-06 08:09:37.394 [VERBOSE] [  17] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #21647132
+2020-07-06 08:09:37.396 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:37.396 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:37.396 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  looking for best test in a list of 0 eyes.
+2020-07-06 08:09:37.396 [VERBOSE] [  14] Eyes: VisualGridRunner.GetNextTestToOpen_:  no relevant test found in: 
+2020-07-06 08:09:37.396 [VERBOSE] [  14] Eyes: VisualGridRunner.GetOrWaitForTask_:  waiting on lockObject #56140151
