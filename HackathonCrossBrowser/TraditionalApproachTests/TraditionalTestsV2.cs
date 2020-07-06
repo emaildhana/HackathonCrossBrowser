@@ -309,9 +309,9 @@ namespace HackathonCrossBrowser.TraditionalApproachTests
 
         [DataTestMethod]
         [Description("Test to validate the product details page in tablet mode")]
-        [DataRow(BrowserType.Chrome, 1200, 700)]
-        [DataRow(BrowserType.FireFox, 1200, 700)]
-        [DataRow(BrowserType.Edge, 1200, 700)]
+        [DataRow(BrowserType.Chrome, 768, 700)]
+        [DataRow(BrowserType.FireFox, 768, 700)]
+        [DataRow(BrowserType.Edge, 768, 700)]
         public void ProductDetailsInTabletModeTest(BrowserType browserType, int width, int height)
         {
             Console.WriteLine($"Browser type - {browserType}, Width - {width}, Height - {height}");
@@ -322,8 +322,11 @@ namespace HackathonCrossBrowser.TraditionalApproachTests
             Console.WriteLine(driver.Manage().Window.Size);
             InduceDelay(3);
 
+            //Click on the filter menu
+            driver.FindElementByXPath(HomePage.filtersAnchorInTabletMode).Click();
+            InduceDelay(2);
             //Click the Black check box in filter panel
-            driver.FindElementByXPath(HomePage.blackColorCheckbox).Click();
+            driver.FindElementByXPath(HomePage.blackColorCheckBoxInTableMode).Click();
             InduceDelay(2);
             //Click on Filter button
             driver.FindElementByXPath(HomePage.filterButton).Click();
